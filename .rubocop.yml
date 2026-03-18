@@ -30,5 +30,3 @@ Layout/LineLength:
   Max: 120
 
 inherit_from: .rubocop_todo.yml
-
-plugins: rubocop-rake
